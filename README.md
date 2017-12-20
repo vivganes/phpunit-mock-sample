@@ -1,0 +1,1 @@
+This is a repo with a sample code for phpunit mocks using mockery
